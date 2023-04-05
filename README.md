@@ -5,4 +5,4 @@
 ## Project: snakes-cafe
 
 ### How to initialize/run your application :
-python snakes_cafe.py 
+python snakes_cafe.py  
